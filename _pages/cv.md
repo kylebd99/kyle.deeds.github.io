@@ -53,12 +53,9 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Teaching and Mentoring
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Teaching Assistant for 'CSE 544: Graduate Database Management Systems'
+  * Taught a lecture on memory management in DMBS', designed homework assignments, held office hours, and graded assignments
+* Undergraduate Research Mentor (Dec. 2022 - Aug. 2024)
+  * Was fortunate to recruit and work with Diandre Sabale on a succesful research project resulting in a VLDB 2025 publication
