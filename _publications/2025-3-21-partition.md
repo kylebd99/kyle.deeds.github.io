@@ -1,5 +1,5 @@
 ---
-title: "Partition Constraints for Conjunctive Queries: Bounds and Worst-Case Optimal Joins"
+title: "Partition Constraints for Conjunctive Queries: Bounds and Worst-Case Optimal Joins (Best Paper & Best Student Paper)"
 collection: publications
 permalink: /publication/2025-01-29-galley
 excerpt: 'This applies database theory and compiler techniques to optimize sparse tensor programs.'
